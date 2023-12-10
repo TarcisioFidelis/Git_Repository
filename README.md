@@ -3,4 +3,4 @@
 
  Criado durante o curso da Aula em Vídeo do Gustavo Guanabara.
 
- essa limha eu adicionei direto no github.com.
+ essa linha eu adicionei direto no github.com.
